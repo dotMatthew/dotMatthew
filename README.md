@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, my name is Mathias 👋
 
-<!--
-**dotMatthew/dotMatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 19 years old software developer based in Munich.
+I am doing an apprenticeship from 02/01/2019 to 07/31/2021.
 
-Here are some ideas to get you started:
+Started coding with Java :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Kubernetes, VueJS and Electron
+- 📫 How to reach me: hello@mdollenbacher.net
+
+### Programming and Scripting languages
+
+<img src=https://www.flaticon.com/svg/static/icons/svg/226/226777.svg>
+
+
