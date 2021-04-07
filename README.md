@@ -10,6 +10,7 @@ Started coding with Java :)
 
 ### Programming and Scripting languages
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width=64 height=64>
-<img src="https://logodix.com/logo/773715.png" widht=64 height=64>
-
+<p align="left">
+<a href="https://openjdk.java.net/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width=64 height=64 alt="java"></a>
+<a href="https://de.wikipedia.org/wiki/C-Sharp" target="_blank"><img src="https://logodix.com/logo/773715.png" widht=64 height=64 alt="c-sharp"></a>
+</p>
