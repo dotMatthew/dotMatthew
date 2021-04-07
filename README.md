@@ -29,4 +29,15 @@ Started coding with Java :)
 <a href="https://www.oracle.com/de/database/" taraget="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width=40 height=40 alt="oracle database"></a>
 </p>
 
+### Tools
+
+<p align="left"
+<a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width=40 height=40 alt="docker"></a>
+<a href="https://www.jetbrains.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width=40 height=40 alt="JetBrains Products"></a>
+<a href="http://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width=40 height=40 alt="Kubernetes"></a>
+<a href="https://www.debian.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width=40 height=40 alt="Debian"></a>
+<a href="https://www.qemu.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/qemu/qemu-icon.svg" width=40 height=40 alt="Qemu"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width=40 height=40 alt="Git"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width=40 height=40 alt="VSCode></a>
+<a href="https://nginx.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width=40 height=40 alt="Nginx"></a>
 #### This README.md is inspired by [@TitusKirch](https://github.com/TitusKirch)
