@@ -16,7 +16,7 @@ Started coding with Java :)
 <a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width=40 height=40 alt="kotlin"></a>
 <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width=40 height=40 alt="bash"</a>
 <a href="https://docs.microsoft.com/de-de/powershell/scripting/overview?view=powershell-7.1" target="_blank"><img src="https://www.sapien.com/blog/wp-content/uploads/2017/10/powershell-logo.png" width=40 height=40 alt="powershell"></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width=40 height=40 alt="php"></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width=40 height=40 alt="php"></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width=40 height=40 alt="python"></a>
 </p>
   
