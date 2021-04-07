@@ -40,4 +40,6 @@ Started coding with Java :)
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width=40 height=40 alt="Git"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width=40 height=40 alt="VSCode></a>
 <a href="https://nginx.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width=40 height=40 alt="Nginx"></a>
+</p>
+
 #### This README.md is inspired by [@TitusKirch](https://github.com/TitusKirch)
