@@ -41,4 +41,4 @@ I am doing an apprenticeship from 02/01/2019 to 07/31/2021.
 <a href="https://nginx.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width=40 height=40 alt="Nginx"></a>
 </p>
 
-<br> #### This README.md is inspired by [@TitusKirch](https://github.com/TitusKirch)
+#### This README.md is inspired by [@TitusKirch](https://github.com/TitusKirch)
