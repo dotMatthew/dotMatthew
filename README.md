@@ -1,9 +1,8 @@
 ### Hi, my name is Mathias 👋
 
-I am a 19 years old software developer based in Munich.
+I am a 19 years old software developer based in Munich.<br>
 I am doing an apprenticeship from 02/01/2019 to 07/31/2021.
 
-Started coding with Java :)
 
 - 🌱 I’m currently learning Kubernetes, VueJS and Electron
 - 📫 How to reach me: hello@mdollenbacher.net
@@ -42,4 +41,4 @@ Started coding with Java :)
 <a href="https://nginx.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width=40 height=40 alt="Nginx"></a>
 </p>
 
-#### This README.md is inspired by [@TitusKirch](https://github.com/TitusKirch)
+<br> #### This README.md is inspired by [@TitusKirch](https://github.com/TitusKirch)
