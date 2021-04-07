@@ -44,7 +44,7 @@ I am doing an apprenticeship from 02/01/2019 to 07/31/2021.
 <a href="https://www.debian.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width=40 height=40 alt="Debian"></a>
 <a href="https://www.qemu.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/qemu/qemu-icon.svg" width=40 height=40 alt="Qemu"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width=40 height=40 alt="Git"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width=40 height=40 alt="VSCode></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width=40 height=40 alt="VSCode"></a>
 <a href="https://nginx.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width=40 height=40 alt="Nginx"></a>
 </p>
 
