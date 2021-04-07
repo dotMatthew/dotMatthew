@@ -6,7 +6,7 @@ I am doing an apprenticeship from 02/01/2019 to 07/31/2021.
 
 - 🌱 I’m currently learning Kubernetes, VueJS and Electron
 
-## How to reach me?
+### How to reach me?
 
 <p align="left">
   <a href="https://discord.com/users/395266828626165780" target="_blank"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width=40 height=40 alt="discord"></a>
