@@ -11,7 +11,7 @@ I am doing an apprenticeship from 02/01/2019 to 07/31/2021.
 <p align="left">
   <a href="https://discord.com/users/395266828626165780" target="_blank"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width=40 height=40 alt="discord"></a>
   <a href="mailto:hello@mdollenbacher.net"><img src="https://www.vectorlogo.zone/logos/mailgun/mailgun-icon.svg" width=40 height=40 alt="email"></a>
-  <a href="ts3server://franyoo.de?port=9987" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fteamspeak-icon-15.png&f=1&nofb=1" width=40 height=40 alt="teamspeak"></a>
+  <a href="ts3server://franyoo.de?port=9987"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fteamspeak-icon-15.png&f=1&nofb=1" width=40 height=40 alt="teamspeak"></a>
   <a href="https://twitter.com/taiqane1"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width=40 height=40 alt="twitter"></a>
 </p>
 
