@@ -10,6 +10,6 @@ Started coding with Java :)
 
 ### Programming and Scripting languages
 
-<img src=https://www.flaticon.com/svg/static/icons/svg/226/226777.svg>
-
+<img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width=64 height=64>
+<img src="https://logodix.com/logo/773715.png" widht=64 height=64>
 
