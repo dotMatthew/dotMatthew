@@ -1,8 +1,7 @@
 ### Hi, my name is Mathias 👋
 
-I am a 19 years old software developer based in Munich.<br>
-I am doing an apprenticeship from 02/01/2019 to 07/31/2021.
-
+I am a 19 year old software developer from Munich <br>
+and am currently doing an apprenticeship from 02/01/2019 to 07/31/2021.
 
 - 🌱 I’m currently learning Kubernetes, VueJS and Electron
 
