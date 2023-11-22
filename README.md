@@ -1,6 +1,6 @@
 ### Hi, my name is Mathias 👋
 
-I am a 21 year old software developer from Munich <br>
+I am a 22 year old software developer from Munich <br>
 
 ### How to reach me?
 
